@@ -7,7 +7,7 @@ create a .env file in root directory and add
 DATABASE_URL = "your database url" 
 JWT_SECRET = your secret key
 
-then in the commandline of you directory 
+then in the commandline of your project directory 
 ---
 npm i (to install all dependancy)
 
