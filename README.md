@@ -3,8 +3,8 @@ nest js
 prisma 
 
 ## To run the app 
-create a .env file in root directory and add 
-DATABASE_URL = "your database url" 
+create a .env file in root directory and add <br/>
+DATABASE_URL = "your database url" <br/>
 JWT_SECRET = your secret key
 
 then in the commandline of your project directory 
